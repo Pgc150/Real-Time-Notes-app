@@ -45,6 +45,5 @@ This app also uses React’s useEffect hook to keep data synchronized across mul
 Built with React, Tailwind CSS, and lots of curiosity.
 Special thanks to all the open-source developers who make learning fun.
 
+<img width="1905" height="888" alt="image" src="https://github.com/user-attachments/assets/b027d1a8-3a11-4f84-b502-832fbe68f72c" />
 
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f2811dc4-4d84-4a9b-8d55-f8df096bce9a" />
